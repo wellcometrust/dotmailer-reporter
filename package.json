@@ -1,0 +1,16 @@
+{
+  "name": "dotmailer-reporter",
+  "version": "1.0.0",
+  "description": "get new dotmailer address book subscribers and email in a csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "d.mccormick@wellcome.ac.uk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
+    "nodemailer": "^4.6.8"
+  }
+}

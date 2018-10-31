@@ -1,0 +1,29 @@
+{
+  "addressBooks": [
+    {
+      "id": 40129,
+      "name": "Accessibility",
+      "care_id": "ACC"
+    },
+    {
+      "id": 40130,
+      "name": "Teachers",
+      "care_id": "YPTE"
+    },
+    {
+      "id": 40131,
+      "name": "What-s-on",
+      "care_id": "WCWO"
+    },
+    {
+      "id": 40132,
+      "name": "Young-people-14-19",
+      "care_id": "YPRA"
+    },
+    {
+      "id": 40133,
+      "name": "Youth-and-community-workers",
+      "care_id": "YPYW"
+    }
+  ]
+}
