@@ -24,6 +24,11 @@
       "id": 40133,
       "name": "Youth-and-community-workers",
       "care_id": "YPYW"
+    },
+    {
+      "id": 983342,
+      "name": "Book-prize",
+      "care_id": "BOKP"
     }
   ]
 }
