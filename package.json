@@ -9,7 +9,7 @@
   "author": "d.mccormick@wellcome.ac.uk",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.6.0",
     "dotenv": "^6.0.0",
     "nodemailer": "^4.6.8"
   }
