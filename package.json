@@ -11,6 +11,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^6.0.0",
-    "nodemailer": "^4.6.8"
+    "nodemailer": "^6.9.8"
   }
 }
